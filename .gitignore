@@ -1,0 +1,30 @@
+# Ignorar archivos generados por IDEs
+**/.idea/
+**/.vscode/
+**/.shelf/
+**/workspace.xml
+# Editor-based HTTP Client requests
+**/httpRequests/
+# Datasource local storage ignored files
+**/dataSources/
+**/dataSources.local.xml
+
+# Ignorar archivos específicos de NetBeans
+**/nbactions.xml
+**/dependency-reduced-pom.xml
+**/nb-configuration.xml
+
+# Ignorar archivos específicos de macOS
+**/.DS_Store
+
+# Ignorar archivos de compilación y salida de Maven
+**/target/
+
+# Ignorar archivos binarios compilados y generados
+**/*.class
+**/*.jar
+
+# Ignorar archivos de texto genéricos
+**/*.docx
+**/*.pdf
+**/*.txt
